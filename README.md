@@ -14,4 +14,5 @@ The first generation is created using a seed of random population size within th
 
 ### Usage
 ```javac *.java && java GameOfLife```
+
 Press or hold the right arrow key to move forward to new generations.
